@@ -1,0 +1,19 @@
+{
+    "short_name": "Forest",
+    "name": "Forest",
+    "icons": [{
+        "src": "/assets/img/icon.png",
+        "type": "image/png",
+        "sizes": "1024x1024",
+        "purpose": "any maskable"
+    }, {
+        "src": "/assets/img/icon.png",
+        "type": "image/png",
+        "sizes": "1024x1024",
+        "purpose": "any maskable"
+    }],
+    "start_url": "index.html",
+    "background_color": "#d8ed96",
+    "theme_color": "#d8ed96",
+    "display": "fullscreen"
+}

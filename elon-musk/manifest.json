@@ -1,0 +1,19 @@
+{
+    "short_name": "Elon Musk",
+    "name": "Elon Musk",
+    "icons": [{
+        "src": "/assets/img/elon-musk.webp",
+        "type": "image/jpeg",
+        "sizes": "554x554",
+        "purpose": "any maskable"
+    }, {
+        "src": "/assets/img/elon-musk.webp",
+        "type": "image/jpeg",
+        "sizes": "554x554",
+        "purpose": "any maskable"
+    }],
+    "start_url": "index.html",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "display": "fullscreen"
+}
